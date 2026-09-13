@@ -10,7 +10,7 @@ A Power BI dashboard analyzing survey responses from 630 data professionals, cov
 
 ## Dashboard
 
-![Dashboard preview](./screenshot.png)
+![Dashboard preview](<img width="1187" height="742" alt="screenshot" src="https://github.com/user-attachments/assets/259b7ce2-abbc-4fcf-aae9-110df8641390" />)
 
 **What it shows:**
 - Participant breakdown by country and favorite programming language
