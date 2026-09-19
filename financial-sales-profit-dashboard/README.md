@@ -28,6 +28,6 @@ A Power BI dashboard analyzing sales and profitability across segments, products
 
 ## How to use
 
-1. Open `Financial-Sales-Profit-Dashboard.pbix` in Power BI Desktop.
+1. Open `Financial_Sales_Profit_Dashboard.pbix` in Power BI Desktop.
 2. Use the Country and Segment filters on the left panel to slice the data.
 3. Hover over any chart for exact values.
