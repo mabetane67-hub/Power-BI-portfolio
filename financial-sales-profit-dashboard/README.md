@@ -10,7 +10,7 @@ A Power BI dashboard analyzing sales and profitability across segments, products
 
 ## Dashboard
 
-![Dashboard preview](Financial_dashboard_image.png)
+![Dashboard preview](Financial_dashboard.png)
 
 **What it shows:**
 - Total sales, profit, and profit margin at a glance ($118.7M sales, $16.9M profit, 14.2% margin)
